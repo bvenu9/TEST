@@ -1,6 +1,0 @@
-HI Hello
-HRU
-THis is first file
-this is 4th line
-this is fifth line
-
